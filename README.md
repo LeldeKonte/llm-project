@@ -1,4 +1,4 @@
-# LLM Data Analīzes Projekts
+# LLM Datu Analīzes Projekts
 
 ## Apraksts
 Šis projekts izmanto LLM, lai:
